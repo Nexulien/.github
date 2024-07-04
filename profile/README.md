@@ -1,6 +1,6 @@
 <img src="zoidcord-smallest.png"></img>
 
-<sup>Art by @jaegerwald</sub>
+<sup>Art by <a href="https://github.com/JaegerwaldDev">@JaegerwaldDev</a></sub>
 
 # Zoidcord
 The best (worst) Vencord fork
