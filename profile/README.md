@@ -11,3 +11,6 @@ Feel free to use it, though support will be limited.
 
 ## How to install
 Just download the installer and follow the instructions inside (work in progress)
+
+## Discord
+You can join the Discord [here](https://discord.gg/VS2wePpjnt)
