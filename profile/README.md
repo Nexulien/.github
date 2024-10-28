@@ -5,9 +5,9 @@ The best (worst) Vencord fork
 Nexulien is a fork of Vencord that I started for me and my friends to be able to add plugins and features freely.
 Feel free to use it, though support will be limited.
 
-<img src="zoidcord-smallest.png" height="192px"></img>
+<img src="https://raw.githubusercontent.com/Nexulien/Assets/refs/heads/main/untitled_mascot_menu.png" height="256px"></img>
 
-<sup>Art by <a href="https://github.com/JaegerwaldDev">@JaegerwaldDev</a></sub>
+<sup>Art by @kuro.moth on Discord</sub>
 
 ## How to install
 Just download the installer and follow the instructions inside (work in progress)
