@@ -2,8 +2,7 @@
 
 The best (worst) Vencord fork
 
-Nexulien is a fork of Vencord that I started for me and my friends to be able to add plugins and features freely.
-Feel free to use it, though support will be limited.
+Nexulien is a fork of Vencord that I originally started for me and my friends to be able to add plugins and features freely. It has since evlovled into a public project for anyone to use.
 
 <img src="https://raw.githubusercontent.com/Nexulien/Assets/refs/heads/main/untitled_mascot_menu.png" height="256px"></img>
 
