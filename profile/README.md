@@ -12,6 +12,7 @@ Nexulien is a fork of Vencord that I originally started for me and my friends to
 <br>
 <br>
 <br>
+<br>
 <p align="right"><sub>Art by @kuro.moth on Discord</sub></p>
 
 ## How to install
