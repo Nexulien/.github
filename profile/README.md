@@ -6,6 +6,9 @@
 <br>
 </p>
 
+> [!NOTE]
+> This has been archived and offically marked as inactive.
+
 Nexulien is a fork of Vencord that I originally started for me and my friends to be able to add plugins and features freely. It has since evolved into a public project for anyone to use.
 <br>
 <br>
